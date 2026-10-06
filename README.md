@@ -1,6 +1,6 @@
 # de-bugger-off
 
-A dependency-free JavaScript logger that can be copied into browser or Node.js projects. It records debug, info, warning, and error entries, redacts common sensitive values, and can produce a styled standalone HTML report.
+De-bugger-off is your simple way to tell bugs to bugger off. It is designed to drop into a project without giving you a headache during setup—because bugs in a codebase are already reason enough to pull your hair out... if you still have any. It will not fix the bugs for you, but it will leave a clear, readable trail to help you find the culprit. There are no npm dependencies, and it works in browser or Node.js projects, redacts common sensitive values, and can produce a styled standalone HTML report.
 
 Maintainer: [JustSebNL (Just Seb)](https://github.com/JustSebNL)
 
